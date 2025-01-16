@@ -1,7 +1,3 @@
-Here’s the complete and updated **README.md** file for your project:
-
----
-
 # ETL Pipeline with Airflow and PostgreSQL
 
 [![Docker](https://img.shields.io/badge/Docker-Enabled-blue)](https://www.docker.com/)  
